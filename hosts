@@ -1,0 +1,18 @@
+# RobyScar additional hosts blocklist
+# Blocking SPAM, ADS and all other BULLSHIT
+# 
+#
+# Changelog:
+# 2019-08-06 creation
+# 
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+# RobySCar
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [General]
