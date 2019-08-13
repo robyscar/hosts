@@ -1,0 +1,36 @@
+# Exact blocking
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+
+# Regex & Wildcard blocking
+(^|\.)addthis\.com$
+(^|\.)addthis\.com$
+(^|\.)adnxs\.com$
+(^|\.)adservice\.google\.com$
+(^|\.)candycrushsoda\.king\.com$
+(^|\.)casalemedia\.com$
+(^|\.)consensu\.org$
+(^|\.)cs1137\.wpc\.gammacdn\.net$
+(^|\.)cs11\.wpc\.v0cdn\.net$
+(^|\.)cust-service\.com$
+(^|\.)forebase\.com$
+(^|\.)googletagmanager\.com$
+(^|\.)googlezip\.net$
+(^|\.)imrworldwide\.com$
+(^|\.)iriscoremetadataprod\.blob\.core\.windows\.net$
+(^|\.)ligatus\.com$
+(^|\.)measure\.office\.com$
+(^|\.)pubmatic\.com$
+(^|\.)qq\.com$
+(^|\.)rubiconproject\.com$
+(^|\.)scorecardresearch\.com$
+(^|\.)talk\.google\.com$
+(^|\.)telecommand\.telemetry\.microsoft\.com$
+(^|\.)telemetry\.microsoft\.com$
+(^|\.)v10\.events\.data\.microsoft\.com$
+(^|\.)watson\.data\.microsoft\.com$
+(^|\.)watson\.data\.microsoft\.com\.akadns\.net$
+(^|\.)watson\.telemetry\.microsoft\.com$
+(^|\.)webtrekk\.net$
+(^|\.)wpc\.v0cdn\.net$
+(^|\.)wt-safetag\.com$
