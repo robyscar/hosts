@@ -1,3 +1,4 @@
 # BLACKLIST WILD CARDS
 
 clksite.com
+godaddy.com
