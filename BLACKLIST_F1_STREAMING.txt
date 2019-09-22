@@ -4,8 +4,10 @@
 # BLACKLIST F1 STREAMING (CONFIRMED)
 34.102.150.67
 amifgpprfrbsm.com
+amifgpprfrbsm.com
 amung.us
 bnserving.com
+bootstrapcdn.com
 bootstrapcdn.com
 cdnco.us
 cdnfiles.site
@@ -13,18 +15,23 @@ cdnondemand.org
 clksite.com
 dlpyumfmg.com
 doghoust.net
+doghoust.net
 fbcdn.net
+fmnetwork.nl
 fmnetwork.nl
 globwo.online
 google-analytics.com
+googletagmanager.com
 googletagmanager.com
 googletagservices.com
 gravatar.com
 gstatic.com
 histats.com
+histats.com
 huhit.site
 icons8.com
 imageshack.host
+jsdelivr.net
 jsdelivr.net
 jwpltx.com
 jwpsrv.com
@@ -32,15 +39,22 @@ kuntv.pw
 nbastream.io
 newaprads.com
 noop.style
+noop.style
+nsovwzmhl.com
 nsovwzmhl.com
 oclasrv.com
+osskanger.com
 osskanger.com
 performit.club
 podbwdcrmjufmr.com
 popads.net
+popads.net
 pushlum.com
+pushlum.com
+riluaneth.com
 riluaneth.com
 taboola.com
 vdosupreme.com
 zinrora.pw
+
 
