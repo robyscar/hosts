@@ -1,9 +1,7 @@
-
 # BLACKLIST F1 STREAMING (VERIFY)
 
 
 # BLACKLIST F1 STREAMING (CONFIRMED)
-
 34.102.150.67
 amifgpprfrbsm.com
 amung.us
