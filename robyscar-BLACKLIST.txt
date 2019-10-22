@@ -326,6 +326,7 @@
 #	127.0.0.1	www.paypalobjects.com
 #</PAYPAL SHIT>		
 #<OTHER SPAM>		
+	127.0.0.1	market.viber.com	
 	127.0.0.1	lp4.io
 	127.0.0.1	pp.lp4.io
 	127.0.0.1	openx.net
