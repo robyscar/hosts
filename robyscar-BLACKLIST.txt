@@ -68,7 +68,15 @@
 	ff02::3	ip6-allhosts
 #</localhost>		
 		
-# [General]		
+# [General]
+	127.0.0.1	d1fc8wv8zag5ca.cloudfront.net
+	127.0.0.1	d1qsjop7tycsfb.cloudfront.net
+	127.0.0.1	d2r8jgnlsw2k4f.cloudfront.net
+	127.0.0.1	googletagmanager.com
+	127.0.0.1	kampyle.com
+	127.0.0.1	maxymiser.net
+	127.0.0.1	network-contacts.it
+	127.0.0.1	ytimg.com
 	127.0.0.1	akamaihd.net
 	127.0.0.1	opinionsaboutcomputers.blogspot.com
 	127.0.0.1	auto.search.msn.com
