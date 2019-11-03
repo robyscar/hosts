@@ -1,6 +1,7 @@
 # RobyScar additional hosts blocklist
 # Blocking SPAM, ADS and all other BULLSHIT
-# 
+#
+# https://raw.githubusercontent.com/robyscar/hosts/master/robyscar-BLACKLIST.txt 
 #
 # Changelog:
 # 2019-08-08 added Shithole for LINKEDIN, TECHSMITH, ADOBE, and ITALIAN spam from newspapers
