@@ -14,7 +14,24 @@ static.adobelogin.com
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 workflow.licenses.adobe.com
-
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+blyxmpp.tk
+lcs-cops.adobe.io
+static.adobelogin.com
+workflow.licenses.adobe.com
+ims-prod06.adobelogin.com
+oobe.adobe.com
+adobeid.services.adobe.com
+mediagol-meride-tv.akamaized.net
+components2.rcsobjects.it
+api.mixpanel.com
+bp.blogspot.com
+ladsdown.com
+market.viber.com
+bixi.alicdn.com
+ae-cn.alicdn.com
+isgprivacy.cbsi.com
 
 # added for F1 streaming
 35.228.245.229
