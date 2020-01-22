@@ -2497,7 +2497,7 @@
 	127.0.0.1	badmactogoodmac.space
 	127.0.0.1	badmactogoodmac.tech
 	127.0.0.1	beloysoff.ru
-	127.0.0.1	best.aliexpress.com
+#	127.0.0.1	best.aliexpress.com
 	127.0.0.1	bestreview.site
 	127.0.0.1	bgl1dr1-a-fixed.sancharnet.in
 	127.0.0.1	bgl1pp1-a-fixed.sancharnet.in
