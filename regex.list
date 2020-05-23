@@ -1,6 +1,22 @@
 # https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
+# https://github.com/mmotti/pihole-regex/blob/master/regex.list
 # cat /etc/pihole/regex.list
 #
+^(.+[_.-])?ad([sxv]?[0-9]*|system)[_.-]
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+^(.+[_.-])?telemetry[_.-]
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
+^aff(iliat(es?|ion))?[_.-]
+^analytics?[_.-]
+^banners?[_.-]
+^beacons?[0-9]*[_.-]
+^count(ers?)?[0-9]*[_.-]
+^mads\.
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[_.-]
+^track(ing)?[0-9]*[_.-]
 (^|\.)moduleanalysis\.aliexpress\.com$
 (^|\.)a\.line\.me$
 (^|\.)lan\.line\.me$
