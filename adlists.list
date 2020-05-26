@@ -103,3 +103,5 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 # Prevent Phishing
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
+#
+# incendar.com/hosts.php
