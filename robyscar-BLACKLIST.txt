@@ -293,8 +293,8 @@
 	127.0.0.1	na2m-stg2.licenses.adobe.com
 	127.0.0.1	na4r.services.adobe.com
 	127.0.0.1	ocsp.spo1.verisign.com
-	127.0.0.1	preactivate.adobe.*	
-	127.0.0.1	practivate.adobe.*
+	127.0.0.1	preactivate.adobe.com	
+	127.0.0.1	practivate.adobe.com
 	127.0.0.1	practivate.adobe.de
 	127.0.0.1	practivate.adobe.newoa
 	127.0.0.1	prod-rel-ffc-ccm.oobesaas.adobe.com
@@ -10732,7 +10732,6 @@
 	127.0.0.1	secimage.adtech.fr
 	127.0.0.1	secimage.adtech.us
 	127.0.0.1	secondchancecoaching.com
-	127.0.0.1	secret.?oogle.com
 	127.0.0.1	secretlanguage.co
 	127.0.0.1	secserv.adtech.de
 	127.0.0.1	secserv.adtech.fr
