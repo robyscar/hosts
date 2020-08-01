@@ -1,0 +1,22 @@
+# BLACKLIST_XBOX
+# microsoft XBOX spam 
+# 1st version 20200801
+#
+#
+0.0.0.0	ctldl.windowsupdate.com
+0.0.0.0	xbox.ipv6.microsoft.com
+0.0.0.0	device.auth.xboxlive.com
+0.0.0.0	title.mgt.xboxlive.com
+0.0.0.0	xsts.auth.xboxlive.com
+0.0.0.0	title.auth.xboxlive.com
+0.0.0.0	attestation.xboxlive.com
+0.0.0.0	xboxexperiencesprod.experimentation.xboxlive.com
+0.0.0.0	xflight.xboxlive.com
+0.0.0.0	cert.mgt.xboxlive.com
+0.0.0.0	xkms.xboxlive.com
+0.0.0.0	def-vef.xboxlive.com
+0.0.0.0	notify.xboxlive.com
+0.0.0.0	help.ui.xboxlive.com
+0.0.0.0	licensing.xboxlive.com
+0.0.0.0	eds.xboxlive.com
+0.0.0.0	www.xboxlive.com
