@@ -21,3 +21,4 @@ cdn.simplecast.com
 default_tc.mp3
 chtbl.com
 nyt.simplecastaudio.com
+promodj.com
