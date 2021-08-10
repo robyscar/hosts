@@ -1,0 +1,25 @@
+# GDPR
+0.0.0.0	iubenda.com
+0.0.0.0 cookiehub.com
+0.0.0.0	cookieconsent.com
+0.0.0.0	evidon.com
+0.0.0.0	sfbx.io
+0.0.0.0	onetrust.com
+0.0.0.0	axelspringer.com
+0.0.0.0	consentmanager.net
+0.0.0.0	cookiebot.com
+0.0.0.0	cookielawinfo.com
+0.0.0.0	createit.com
+0.0.0.0	adapt.io
+0.0.0.0	apollo.io
+0.0.0.0	createit.am
+0.0.0.0	crownpeak.com
+0.0.0.0	cookiehub.com
+0.0.0.0	didomi.io
+0.0.0.0	kiprotect.com
+
+
+# ???
+# 0.0.0.0	AppConsent
+# 0.0.0.0	Chandago
+# 0.0.0.0	Orejime
