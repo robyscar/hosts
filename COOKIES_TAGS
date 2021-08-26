@@ -1,0 +1,23 @@
+# BLACKLIST_cookies_&_tagging
+# microsoft XBOX spam 
+# 1st version 20200801
+#
+#
+# 0.0.0.0	
+0.0.0.0	cookiepro.com
+0.0.0.0	doubleclick.net
+0.0.0.0	cookie-cdn.cookiepro.com
+0.0.0.0	securepubads.g.doubleclick.net
+0.0.0.0	www.google-analytics.com
+0.0.0.0	googletagmanager.com
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
+# 0.0.0.0	
