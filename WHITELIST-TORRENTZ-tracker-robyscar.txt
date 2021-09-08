@@ -130,3 +130,11 @@ tracker1.wasabii.com.tw
 tracker2.itzmx.com
 tracker3.itzmx.com
 tracker-v6.zooki.xyz
+collector-hpn.ghostery.net
+tracker.cyberia.is
+tracker.beeimg.com
+tracker1.bt.moack.co.kr
+tracker.birkenwald.de
+tracker.altrosky.nl
+tracker.0x.tf
+tracker.army
