@@ -1,0 +1,154 @@
+  [i] Neutrino emissions detected...
+[K  [✓] Pulling blocklist source list into range
+
+  [i] Preparing new gravity database...[K  [✓] Preparing new gravity database
+  [i] Using libz compression
+
+  [i] Target: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 90152 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://mirror1.malwaredomains.com/files/justdomains
+  [i] Status: Pending...[K  [✗] Status: Not found
+  [✗] List download failed: no cached list available
+
+  [i] Target: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+  [i] Status: Pending...[K  [✓] Status: No changes detected
+  [i] Analyzed 34 domains
+
+  [i] Target: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+  [i] Status: Pending...[K  [✓] Status: No changes detected
+  [i] Analyzed 2701 domains
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/robyscar-PIHOLE-BLACKLIST.txt
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 86 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/robyscar_blacklist_porn_only
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 12070 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/robyscar_EnergizedPorn.txt
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 336681 domains
+  [i] List stayed unchanged
+
+  [i] Target: http://sysctl.org/cameleon/hosts
+  [i] Status: Pending...[K  [✓] Status: No changes detected
+  [i] Analyzed 20566 domains
+
+  [i] Target: https://adaway.org/hosts.txt
+  [i] Status: Pending...[K  [✓] Status: No changes detected
+  [i] Analyzed 8166 domains
+
+  [i] Target: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 94804 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://www.malwaredomainlist.com/hostslist/hosts.txt
+  [i] Status: Pending...[K  [✗] Status: Connection Refused
+  [✗] List download failed: no cached list available
+
+  [i] Target: https://someonewhocares.org/hosts/zero/hosts
+  [i] Status: Pending...[K  [✓] Status: No changes detected
+  [i] Analyzed 16952 domains
+
+  [i] Target: http://winhelp2002.mvps.org/hosts.txt
+  [i] Status: Pending...[K  [✓] Status: No changes detected
+  [i] Analyzed 8730 domains
+
+  [i] Target: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+  [i] Status: Pending...[K  [✓] Status: No changes detected
+  [i] Analyzed 3622 domains
+
+  [i] Target: https://block.energized.pro/unified/formats/hosts
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 845465 domains
+  [i] List has been updated
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/blacklist_ADOBE
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 3 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/BLACKLIST_TECHSMITH
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 0 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/black_list_otherspam
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 166 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/robyscar_BL_LINKEDIN
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 11 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/robyscar_BL_GOOGLESHIT
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 9 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts0
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 160307 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts1
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 171373 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/BLACKLIST_XBOX
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 17 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 130164 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/BLACKLIST_F1_STREAMING.txt
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 41 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/BLACKLIST_microsoft_tracking
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 122 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/BLACKLIST-robyscar.txt
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 14548 domains
+  [i] List stayed unchanged
+
+  [i] Target: https://raw.githubusercontent.com/robyscar/hosts/master/BLACKLIST_GDPR.TXT
+  [i] Status: Pending...[K  [✓] Status: Retrieval successful
+  [i] Analyzed 18 domains
+  [i] List stayed unchanged
+
+  [i] Storing downloaded domains in new gravity database...[K  [✓] Storing downloaded domains in new gravity database
+  [i] Building tree...[K  [✓] Building tree
+  [i] Swapping databases...[K  [✓] Swapping databases
+  [i] Number of gravity domains: 1916808 (1356983 unique domains)
+  [i] Number of exact blacklisted domains: 104
+  [i] Number of regex blacklist filters: 195
+  [i] Number of exact whitelisted domains: 270
+  [i] Number of regex whitelist filters: 37
+  [i] Cleaning up stray matter...[K  [✓] Cleaning up stray matter
+
+  [✓] DNS service is listening
+     [✓] UDP (IPv4)
+     [✓] TCP (IPv4)
+     [✓] UDP (IPv6)
+     [✓] TCP (IPv6)
+
+  [✓] Pi-hole blocking is enabled
