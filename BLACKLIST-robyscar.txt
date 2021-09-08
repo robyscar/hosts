@@ -483,6 +483,8 @@
 </TECHSMITH>		
 <ADOBE>		
 #</ADOBE>		
+
+#<BULLSHIT>		
 	127.0.0.1	goatse.cx
 	127.0.0.1	www.goatse.cx
 	127.0.0.1	oralse.cx
@@ -14647,4 +14649,5 @@
 	127.0.0.1	v10.vortex-win.data.microsoft.com
 	127.0.0.1	vortex-win.data.microsoft.com
 	127.0.0.1	wes.df.telemetry.microsoft.com
-#<PORN>		
+	127.0.0.1	accessfreevpn.com
+#</BULLSHIT>		
