@@ -1,0 +1,617 @@
+id	type	domain	enabled	date_added	date_modified	comment
+2	0	cdn.content.prod.cms.msn.com	1	1590233585	1594553347	
+3	0	sputniknews.com	1	1590233595	1594553347	
+4	0	rt.com	1	1590233605	1594553347	
+7	0	reminders-pa.googleapis.com	1	1590233630	1594553347	
+8	0	firestore.googleapis.com	1	1590233638	1594553347	
+9	0	s.youtube.com	1	1590233645	1594553347	
+10	0	video-stats.l.google.com	1	1590233652	1594553347	
+11	0	www.msftncsi.com	1	1590233658	1594553347	
+12	0	googleapis.l.google.com	1	1590233666	1594553347	
+13	0	outlook.office365.com	1	1590233963	1594553347	
+14	0	products.office.com	1	1590233964	1594553347	
+15	0	c.s-microsoft.com	1	1590233964	1594553347	
+16	0	i.s-microsoft.com	1	1590233964	1594553347	
+17	0	login.live.com	1	1590233964	1594553347	
+18	0	login.microsoftonline.com	1	1590233964	1594553347	
+19	0	spclient.wg.spotify.com	1	1590233964	1594553347	
+20	0	apresolve.spotify.com	1	1590233964	1594553347	
+21	0	dl.dropboxusercontent.com	1	1590233965	1594553347	
+22	0	ns1.dropbox.com	1	1590233965	1594553347	
+23	0	ns2.dropbox.com	1	1590233965	1594553347	
+24	0	dl.google.com	1	1590233965	1594553347	
+25	0	appleid.apple.com	1	1590233965	1594553347	
+26	0	android.clients.google.com	1	1590233965	1594553347	
+27	0	settings-win.data.microsoft.com	1	1590233965	1594553347	
+28	0	wbd.ms	1	1590233966	1594553347	
+29	0	int.whiteboard.microsoft.com	1	1590233966	1594553347	
+30	0	whiteboard.microsoft.com	1	1590233966	1594553347	
+31	0	whiteboard.ms	1	1590233966	1594553347	
+32	0	officeclient.microsoft.com	1	1590233966	1594553347	
+33	0	upload.facebook.com	1	1590233966	1596718739	FB
+34	0	creative.ak.fbcdn.net	1	1590233966	1596718744	FB
+35	0	external-lhr0-1.xx.fbcdn.net	1	1590233967	1596718752	FB
+36	0	external-lhr1-1.xx.fbcdn.net	1	1590233967	1596718756	FB
+37	0	external-lhr10-1.xx.fbcdn.net	1	1590233967	1596718760	FB
+38	0	external-lhr2-1.xx.fbcdn.net	1	1590233967	1596718763	FB
+39	0	external-lhr3-1.xx.fbcdn.net	1	1590233967	1596718767	FB
+40	0	external-lhr4-1.xx.fbcdn.net	1	1590233967	1596718771	FB
+41	0	external-lhr5-1.xx.fbcdn.net	1	1590233967	1596718775	FB
+42	0	external-lhr6-1.xx.fbcdn.net	1	1590233968	1596718894	FB
+43	0	external-lhr7-1.xx.fbcdn.net	1	1590233968	1596718866	FB
+44	0	external-lhr8-1.xx.fbcdn.net	1	1590233968	1596718861	FB
+45	0	external-lhr9-1.xx.fbcdn.net	1	1590233968	1596718857	FB
+46	0	fbcdn-creative-a.akamaihd.net	1	1590233968	1596718795	FB
+47	0	scontent-lhr3-1.xx.fbcdn.net	1	1590233969	1596718791	FB
+48	0	scontent.xx.fbcdn.net	1	1590233969	1596718799	FB
+49	0	scontent.fgdl5-1.fna.fbcdn.net	1	1590233969	1596718804	FB
+51	0	b-graph.facebook.com	1	1590233969	1596718809	FB
+52	0	connect.facebook.com	1	1590233969	1596718814	FB
+53	0	cdn.fbsbx.com	1	1590233970	1596718817	FB
+54	0	api.facebook.com	1	1590233970	1596718821	FB
+55	0	edge-mqtt.facebook.com	1	1590233970	1596718824	FB
+56	0	mqtt.c10r.facebook.com	1	1590233970	1596718828	FB
+57	0	portal.fb.com	1	1590233970	1596718838	FB
+58	0	star.c10r.facebook.com	1	1590233970	1596718833	FB
+59	0	star-mini.c10r.facebook.com	1	1590233971	1596718843	FB
+60	0	b-api.facebook.com	1	1590233971	1596718847	FB
+61	0	fb.me	1	1590233971	1596718853	FB
+62	0	oneclient.sfx.ms	1	1590233971	1594553348	
+63	0	g.live.com	1	1590233971	1594553348	
+64	0	vk.com	1	1590233972	1594553348	
+65	0	bdsmlr.com	1	1590233972	1594553348	
+66	0	dc.services.visualstudio.com	1	1590233972	1594553348	
+67	0	fonts.googleapis.com	1	1590233972	1594553348	
+68	0	nexusrules.officeapps.live.com	1	1590233972	1594553348	
+69	0	nexus.officeapps.live.com	1	1590233973	1594553348	
+71	0	mainlyusedforwalking.tumblr.com	1	1590233973	1594553348	
+72	0	tumblr.com	1	1590233973	1594553348	
+73	0	manyvids.com	1	1590233973	1594553348	
+74	0	lnkd.in	1	1590233973	1594553348	
+75	0	raspberrypi.org	1	1590233974	1594553348	
+76	0	ow.ly	1	1590233974	1594553348	
+77	0	torrentz2.eu	1	1590233974	1596718721	TORRENTZ
+78	0	thepiratebay.org	1	1590233974	1594553348	
+79	0	eztv.ag	1	1590233974	1594553348	
+80	0	safelinks.protection.outlook.com	1	1590233975	1594553348	
+81	0	outlook.com	1	1590233975	1594553348	
+82	0	t.co	1	1590233975	1594553348	
+83	0	eur03.safelinks.protection.outlook.com	1	1590233975	1594553348	
+84	0	tracker.opentrackr.org	1	1590233975	1594553348	
+85	0	tracker.openbittorrent.com	1	1590233976	1594553348	
+86	0	router.utorrent.com	1	1590233976	1594553348	
+87	0	bit.ly	1	1590233976	1594553348	
+88	0	aka.ms	1	1590233976	1594553348	
+89	0	fs.microsoft.com	1	1590233976	1594553348	
+90	0	ctldl.windowsupdate.com	1	1590233976	1594553348	
+91	0	login.msa.akadns6.net	1	1590233976	1594553348	
+92	0	auth.gfx.ms	1	1590233977	1594553348	
+93	0	wdcp.microsoft.com	1	1590233977	1594553348	
+94	0	definitionupdates.microsoft.com	1	1590233977	1594553348	
+95	0	prod.do.dsp.mp.microsoft.com	1	1590233977	1594553348	
+96	0	windowsupdate.com	1	1590233977	1594553348	
+97	0	dl.delivery.mp.microsoft.com	1	1590233977	1594553348	
+98	0	delivery.mp.microsoft.com	1	1590233978	1594553348	
+99	0	update.microsoft.com	1	1590233978	1594553348	
+100	0	blob.weather.microsoft.com	1	1590233978	1594553348	
+101	0	tile-service.weather.microsoft.com	1	1590233978	1594553348	
+102	0	cdn.onenote.net	1	1590233978	1594553348	
+103	0	dmd.metaservices.microsoft.com.akadns.net	1	1590233978	1594553348	
+104	0	dmd.metaservices.microsoft.com	1	1590233979	1594553348	
+105	0	storecatalogrevocation.storequality.microsoft.com	1	1590233979	1594553348	
+106	0	www.msftconnecttest.com	1	1590233979	1594553348	
+107	0	smartscreen.microsoft.com	1	1590233979	1594553348	
+108	0	smartscreen-sn3p.smartscreen.microsoft.com	1	1590233979	1594553348	
+109	0	unitedstates.smartscreen-prod.microsoft.com	1	1590233979	1594553348	
+110	0	cs9.wac.phicdn.net	1	1590233980	1594553348	
+111	0	emdl.ws.microsoft.com	1	1590233980	1594553348	
+112	0	tsfe.trafficshaping.dsp.mp.microsoft.com	1	1590233980	1594553348	
+113	0	geo-prod.do.dsp.mp.microsoft.com	1	1590233980	1594553348	
+114	0	fe2.update.microsoft.com	1	1590233980	1594553348	
+115	0	mscrl.microsoft.com	1	1590233980	1594553348	
+116	0	ocsp.digicert.com	1	1590233980	1594553348	
+117	0	settings.data.microsoft.com	1	1590233981	1594553348	
+118	0	sls.update.microsoft.com	1	1590233981	1594553348	
+119	0	wd-prod-cp-us-west-1-fe.westus.cloudapp.azure.com	1	1590233981	1594553349	
+120	0	e-msedge.net	1	1590233981	1594553349	
+121	0	s-msedge.net	1	1590233981	1594553349	
+122	0	tlu.dl.delivery.mp.microsoft.com	1	1590233981	1594553349	
+123	0	geo-prod.dodsp.mp.microsoft.com.nsatc.net	1	1590233982	1594553349	
+124	0	au.download.windowsupdate.com	1	1590233982	1594553349	
+125	0	fe3.delivery.dsp.mp.microsoft.com.nsatc.net	1	1590233982	1594553349	
+126	0	ipv4.login.msa.akadns6.net	1	1590233982	1594553349	
+127	0	ocos-office365-s2s.msedge.net	1	1590233982	1594553349	
+128	0	client-office365-tas.msedge.net	1	1590233982	1594553349	
+129	0	www.office.com	1	1590233983	1594553349	
+130	0	onecollector.cloudapp.aria	1	1590233983	1594553349	
+131	0	to-do.microsoft.com	1	1590233983	1594553349	
+132	0	outlook.office.com	1	1590233983	1594553349	
+133	0	smtp.office365.com	1	1590233983	1594553349	
+134	0	res.office365.com	1	1590233983	1594553349	
+135	0	attachments.office.net	1	1590233984	1594553349	
+136	0	protection.outlook.com	1	1590233984	1594553349	
+137	0	mail.protection.outlook.com	1	1590233984	1594553349	
+138	0	teams.microsoft.com	1	1590233984	1594553349	
+139	0	lync.com	1	1590233984	1594553349	
+140	0	www.rt.com	1	1590233984	1594553349	
+141	0	g.co	1	1590233984	1594553349	
+142	0	eur02.safelinks.protection.outlook.com	1	1590233985	1594553349	
+143	0	edelivery.oracle.com	1	1590233985	1594553349	
+144	0	outlookmobile-office365-tas.msedge.net	1	1590233985	1594553349	
+145	0	msedge.net	1	1590233985	1594553349	
+146	0	koalaswim.com	1	1590233985	1594553349	
+147	0	plcforum.uz.ua	1	1590233985	1594553349	
+148	0	extranet.immigration.go.th	1	1590233986	1594553349	
+149	0	immigration.go.th	1	1590233986	1594553349	
+150	0	desiderya.it	1	1590233986	1594553349	
+151	0	rover.ebay.com	1	1590233986	1594553349	
+152	0	firstrowsports.eu	1	1590233986	1596718712	F1 streaming
+153	0	thaiairways.com	1	1590233986	1594553349	
+154	0	scbeasy.com	1	1590233987	1594553349	
+155	0	kaspersky-labs.com	1	1590233987	1594553349	
+156	0	cloudflare.com	1	1590233987	1594553349	
+157	0	twitter.com	1	1590233987	1594553349	
+158	0	ajax.googleapis.com	1	1590233987	1594553349	
+159	0	annunci69.it	1	1590233987	1594553349	
+160	0	paginelucirosse.it	1	1590233987	1594553349	
+161	0	s3.amazonaws.com	1	1590233988	1594553349	
+162	0	d1qfwzw6aggd4h.cloudfront.net	1	1590233988	1594553349	
+164	0	pornhub.com	1	1590233988	1594553349	
+165	0	singtel.com	1	1590233988	1594553349	
+166	0	inno.ideas.singtel.com	1	1590233988	1594553349	
+167	0	hi.singtel.com	1	1590233989	1594553349	
+168	0	office.com	1	1590233989	1594553349	
+169	0	img.alicdn.com	1	1590233989	1594553349	
+170	0	aliimg.com	1	1590233989	1594553349	
+171	0	totalsportek.com	1	1590234054	1596718648	F1 streaming
+172	0	buffersports.com	1	1590234062	1596718635	F1 streaming
+173	1	doubleclick.net	1	1590234228	1594553341	
+174	1	forexpros.com	1	1590234228	1594553341	
+175	3	mmstat.com	1	1590234228	1594553343	
+176	1	aliyuncs.com	1	1590234228	1594553341	
+177	1	criteo.com	1	1590234229	1594553341	
+178	1	aliyun.com	1	1590234229	1594553341	
+179	1	gvt1.com	1	1590234229	1594553341	
+180	1	taobao.com	1	1590234229	1594553341	
+181	1	intercomcdn.com	1	1590234229	1594553341	
+182	1	redirector.gvt1.com	1	1590234229	1594553341	
+183	1	chartbeat.com	1	1590234230	1594553341	
+184	1	tiqcdn.com	1	1590234230	1594553341	
+185	1	cookielaw.org	1	1590234230	1594553341	
+186	1	go-mpulse.net	1	1590234230	1594553341	
+187	1	taboola.com	1	1590234230	1594553341	
+188	1	saa.cbsi.com	1	1590234231	1594553341	
+189	1	akstat.io	1	1590234231	1594553341	
+190	1	adservice.google.com	1	1590234231	1594553341	
+191	1	googlesyndication.com	1	1590234231	1594553341	
+192	1	googletagservices.com	1	1590234231	1594553341	
+193	1	newrelic.com	1	1590234231	1594553341	
+194	1	onetrust.com	1	1590234232	1594553341	
+195	1	revcontent.com	1	1590234232	1594553341	
+196	1	summerhamster.com	1	1590234232	1594553341	
+197	3	(^|\.)moduleanalysis\.aliexpress\.com$	1	1590234397	1594553343	
+198	1	moduleanalysis.aliexpress.com	1	1590234567	1594553341	
+199	1	a.line.me	1	1590234575	1594553341	
+200	1	lan.line.me	1	1590234575	1594553341	
+201	1	gwz.line.naver.jp	1	1590234575	1594553341	
+202	1	obs.line-scdn.net	1	1590234576	1594553341	
+203	1	desktop.line-scdn.net	1	1590234576	1594553341	
+204	1	lap-click.tr.line.me	1	1590234576	1594553342	
+205	1	rev.cbsi.com	1	1590234576	1594553342	
+206	1	clarium.io	1	1590234576	1594553342	
+207	1	protected-by.clarium.io	1	1590234576	1594553342	
+208	1	adservice.google.co.th	1	1590234576	1594553342	
+209	1	indexww.com	1	1590234577	1594553342	
+210	1	moatads.com	1	1590234577	1594553342	
+211	1	rubiconproject.com	1	1590234577	1594553342	
+212	1	tdum.alibaba.com	1	1590234577	1594553342	
+213	3	heapanalytics.com	1	1590234577	1594553343	
+214	1	intercom.io	1	1590234577	1594553342	
+215	3	segment.com	1	1590234577	1594553344	
+216	3	globalsign.net	1	1590234577	1594553344	
+217	3	amazonbrowserapp.com	1	1590234578	1594553344	
+218	1	browserapps.amazon.com	1	1590234578	1594553342	
+219	1	googlezip.net	1	1590234578	1594553342	
+220	1	qq.com	1	1590234578	1594553342	
+221	1	adnxs.com	1	1590234578	1594553342	
+222	1	casalemedia.com	1	1590234578	1594553342	
+223	1	addthis.com	1	1590234579	1594553342	
+224	1	consensu.org	1	1590234579	1594553342	
+225	1	forebase.com	1	1590234579	1594553342	
+226	1	ligatus.com	1	1590234579	1594553342	
+227	1	pubmatic.com	1	1590234579	1594553342	
+228	1	webtrekk.net	1	1590234579	1594553342	
+229	1	wt-safetag.com	1	1590234580	1594553342	
+230	1	cust-service.com	1	1590234580	1594553342	
+231	1	googletagmanager.com	1	1590234580	1594553342	
+232	1	talk.google.com	1	1590234580	1594553342	
+233	1	imrworldwide.com	1	1590234580	1594553342	
+234	1	scorecardresearch.com	1	1590234580	1594553342	
+235	3	candycrushsoda.king.com	1	1590234581	1594553344	
+236	1	telemetry.microsoft.com	1	1590234581	1594553342	
+237	1	cs11.wpc.v0cdn.net	1	1590234581	1594553342	
+238	1	cs1137.wpc.gammacdn.net	1	1590234581	1594553343	
+239	1	watson.data.microsoft.com	1	1590234581	1594553343	
+240	1	watson.telemetry.microsoft.com	1	1590234581	1594553343	
+241	1	telecommand.telemetry.microsoft.com	1	1590234582	1594553343	
+242	1	wpc.v0cdn.net	1	1590234582	1594553343	
+243	1	iriscoremetadataprod.blob.core.windows.net	1	1590234582	1594553343	
+244	3	v10.events.data.microsoft.com	1	1590234582	1594553344	
+245	1	watson.data.microsoft.com.akadns.net	1	1590234582	1594553343	
+246	1	measure.office.com	1	1590234582	1594553343	
+247	1	disquscdn.com	1	1590234582	1594553343	
+248	1	awstrack.me	1	1590234583	1594553343	
+249	1	syedshahood.com	1	1590234583	1594553343	
+250	1	chatango.com	1	1590234583	1594553343	
+251	1	noop.style	1	1590234583	1594553343	
+252	1	histats.com	1	1590234583	1594553343	
+253	1	cpx.to	1	1590234583	1594553343	
+254	1	pcvark.com	1	1590234584	1594553343	
+255	1	etahub.com	1	1590234584	1594553343	
+256	1	href.li	1	1590234584	1594553343	
+257	1	game-mode.net	1	1590234584	1594553343	
+258	1	glpals.com	1	1590234584	1594553343	
+259	1	googleadservices.com	1	1590234584	1594553343	
+260	1	manifest.googlevideo.com	1	1590234584	1594553343	
+261	1	clksite.com	1	1590234585	1594553343	
+262	1	godaddy.com	1	1590234585	1594553343	
+263	1	fuckbook.tv	1	1590234585	1594553343	
+264	3	bebee.com	1	1590234585	1594553344	
+265	1	google-analytics.com	1	1590234585	1594553343	
+266	0	campaign.aliexpress.com	1	1590234585	1603673894	
+267	1	tvc-invdn-com.akamaized.net	1	1590234586	1594553343	
+268	1	pagespeed-mod.com	1	1590234586	1594553343	
+269	1	browser-update.org	1	1590234586	1594553343	
+270	3	^(.+[_.-])?ad([sxv]?[0-9]*|system)[_.-]	1	1590236762	1594553344	
+271	3	^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]	1	1590236769	1594553344	
+272	3	^(.+[_.-])?telemetry[_.-]	1	1590236804	1594553344	
+273	3	^adim(age|g)s?[0-9]*[_.-]	1	1590236808	1594553344	
+274	3	^adtrack(er|ing)?[0-9]*[_.-]	1	1590236814	1594553344	
+275	3	^advert(s|is(ing|ements?))?[0-9]*[_.-]	1	1590236819	1594553344	
+276	3	^aff(iliat(es?|ion))?[_.-]	1	1590236833	1594553344	
+277	3	^analytics?[_.-]	1	1590236837	1594553344	
+278	3	^banners?[_.-]	1	1590236843	1594553344	
+279	3	^beacons?[0-9]*[_.-]	1	1590236847	1594553344	
+280	3	^count(ers?)?[0-9]*[_.-]	1	1590236853	1594553344	
+281	3	^mads\.	1	1590236859	1594553344	
+282	3	^pixels?[-.]	1	1590236881	1594553344	
+283	3	^stat(s|istics)?[0-9]*[_.-]	1	1590236886	1594553344	
+284	3	^track(ing)?[0-9]*[_.-]	1	1590236894	1594553344	
+285	3	(^|\.)a\.line\.me$	1	1590236909	1594553344	
+286	3	(^|\.)lan\.line\.me$	1	1590236915	1594553344	
+287	3	(^|\.)gwz\.line\.naver\.jp$	1	1590236919	1594553344	
+288	3	(^|\.)obs\.line-scdn\.net$	1	1590236924	1594553344	
+289	3	(^|\.)desktop\.line-scdn\.net$	1	1590236928	1594553344	
+290	3	(^|\.)lap-click\.tr\.line\.me$	1	1590236932	1594553344	
+291	3	(^|\.)rev\.cbsi\.com$	1	1590236946	1594553344	
+292	3	(^|\.)clarium\.io$	1	1590236952	1594553344	
+293	3	(^|\.)protected-by\.clarium\.io$	1	1590236957	1594553344	
+294	3	(^|\.)adservice\.google\.co\.th$	1	1590236961	1594553344	
+295	3	(^|\.)indexww\.com$	1	1590236967	1594553345	
+296	3	(^|\.)adservice\.google\.com$	1	1590236988	1594553345	
+297	3	(^|\.)moatads\.com$	1	1590236997	1594553345	
+298	3	(^|\.)rubiconproject\.com$	1	1590237000	1594553345	
+299	3	(^|\.)tdum\.alibaba\.com$	1	1590237003	1594553345	
+300	3	(^|\.)heapanalytics\.com$	1	1590237008	1594553345	
+301	3	(^|\.)intercom\.io$	1	1590237014	1594553345	
+302	3	(^|\.)segment\.com$	1	1590237020	1594553345	
+303	3	(^|\.)globalsign\.net$	1	1590237025	1594553345	
+304	3	(^|\.)aliyuncs\.com$	1	1590237029	1594553345	
+305	3	(^|\.)aliyun\.com$	1	1590237033	1594553345	
+306	3	(^|\.)amazonbrowserapp\.com$	1	1590237037	1594553345	
+307	3	(^|\.)browserapps\.amazon\.com$	1	1590237041	1594553345	
+308	3	(^|\.)googlezip\.net$	1	1590237045	1594553345	
+309	3	(^|\.)qq\.com$	1	1590237048	1594553345	
+310	3	(^|\.)adnxs\.com$	1	1590237052	1594553345	
+311	3	(^|\.)casalemedia\.com$	1	1590237056	1594553345	
+312	3	(^|\.)addthis\.com$	1	1590237060	1594553345	
+313	3	(^|\.)consensu\.org$	1	1590237063	1594553345	
+314	3	(^|\.)forebase\.com$	1	1590237067	1594553345	
+315	3	(^|\.)ligatus\.com$	1	1590237071	1594553345	
+316	3	(^|\.)pubmatic\.com$	1	1590237076	1594553345	
+317	3	(^|\.)webtrekk\.net$	1	1590237086	1594553345	
+318	3	(^|\.)wt-safetag\.com$	1	1590237110	1594553345	
+319	3	(^|\.)cust-service\.com$	1	1590237121	1594553345	
+320	3	(^|\.)googletagmanager\.com$	1	1590237126	1594553345	
+321	3	(^|\.)talk\.google\.com$	1	1590237131	1594553345	
+322	3	(^|\.)imrworldwide\.com$	1	1590237135	1594553345	
+323	3	(^|\.)scorecardresearch\.com$	1	1590237139	1594553345	
+324	3	(^|\.)candycrushsoda\.king\.com$	1	1590237152	1594553345	
+325	3	(^|\.)telemetry\.microsoft\.com$	1	1590237156	1594553345	
+326	3	(^|\.)cs11\.wpc\.v0cdn\.net$	1	1590237161	1594553345	
+327	3	(^|\.)cs1137\.wpc\.gammacdn\.net$	1	1590237168	1594553345	
+328	3	(^|\.)watson\.data\.microsoft\.com$	1	1590237173	1594553345	
+329	3	(^|\.)watson\.telemetry\.microsoft\.com$	1	1590237176	1594553345	
+330	3	(^|\.)telecommand\.telemetry\.microsoft\.com$	1	1590237435	1594553345	
+331	3	(^|\.)wpc\.v0cdn\.net$	1	1590237440	1594553345	
+332	3	(^|\.)iriscoremetadataprod\.blob\.core\.windows\.net$	1	1590237445	1594553345	
+333	3	(^|\.)v10\.events\.data\.microsoft\.com$	1	1590237452	1594553345	
+334	3	(^|\.)watson\.data\.microsoft\.com\.akadns\.net$	1	1590237455	1594553345	
+335	3	(^|\.)measure\.office\.com$	1	1590237460	1594553345	
+336	3	(^|\.)disquscdn\.com$	1	1590237464	1594553345	
+337	3	(^|\.)awstrack\.me$	1	1590237468	1594553345	
+338	3	(^|\.)syedshahood\.com$	1	1590237473	1594553345	
+339	3	(^|\.)chatango\.com$	1	1590237476	1594553345	
+340	3	(^|\.)noop\.style$	1	1590237480	1594553345	
+341	3	(^|\.)taboola\.com$	1	1590237484	1594553345	
+342	3	(^|\.)histats\.com$	1	1590237490	1594553345	
+343	3	(^|\.)cpx\.to$	1	1590237496	1594553345	
+344	3	(^|\.)pcvark\.com$	1	1590237500	1594553345	
+345	3	(^|\.)etahub\.com$	1	1590237504	1594553345	
+346	3	(^|\.)href\.li$	1	1590237508	1594553345	
+347	3	(^|\.)game-mode\.net$	1	1590237512	1594553345	
+348	3	(^|\.)glpals\.com$	1	1590237516	1594553345	
+349	3	(^|\.)googleadservices\.com$	1	1590237520	1594553345	
+350	3	(^|\.)manifest\.googlevideo\.com$	1	1590237526	1594553345	
+351	3	(^|\.)clksite\.com$	1	1590237529	1594553345	
+352	3	(^|\.)godaddy\.com$	1	1590237533	1594553345	
+353	3	(^|\.)fuckbook\.tv$	1	1590237546	1594553345	
+354	3	(^|\.)bebee\.com$	1	1590237550	1594553345	
+355	3	(^|\.)mmstat\.com$	1	1590237554	1594553345	
+356	3	(^|\.)google-analytics\.com$	1	1590237559	1594553345	
+357	3	(^|\.)campaign\.aliexpress\.com$	1	1590237564	1594553345	
+358	3	(^|\.)tvc-invdn-com\.akamaized\.net$	1	1590237568	1594553345	
+359	3	(^|\.)pagespeed-mod\.com$	1	1590237572	1594553345	
+360	3	(^|\.)browser-update\.org$	1	1590237576	1594553346	
+361	3	^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]	1	1590237584	1594553346	
+362	3	^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]	1	1590237588	1594553346	
+363	3	^(.+[-_.])??telemetry[-.]	1	1590237591	1594553346	
+364	3	^(.+[-_.])??xn--	1	1590237606	1594553346	
+365	3	^adim(age|g)s?[0-9]*[-_.]	1	1590237613	1594553346	
+366	3	^adtrack(er|ing)?[0-9]*[-.]	1	1590237616	1594553346	
+367	3	^advert(s|is(ing|ements?))?[0-9]*[-_.]	1	1590237620	1594553346	
+368	3	^aff(iliat(es?|ion))?[-.]	1	1590237623	1594553346	
+369	3	^analytics?[-.]	1	1590237627	1594553346	
+370	3	^banners?[-.]	1	1590237631	1594553346	
+371	3	^beacons?[0-9]*[-.]	1	1590237634	1594553346	
+372	3	^count(ers?)?[0-9]*[-.]	1	1590237642	1594553346	
+373	3	^stat(s|istics)?[0-9]*[-.]	1	1590237652	1594553346	
+374	3	^track(ers?|ing)?[0-9]*[-.]	1	1590237657	1594553346	
+375	3	^traff(ic)?[-.]	1	1590237661	1594553346	
+376	3	google-{0,}(analytic|syndication|(ad[a-z0-9]*|tag)-{0,}service)[s]\.[a-z]{2,7}$	1	1590237665	1594553346	
+377	3	google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$	1	1590237670	1594553346	
+378	3	double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$	1	1590237674	1594553346	
+379	3	(google|partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\.[a-z]{2,7}$	0	1590237677	1594553346	
+381	3	(^|\.)fb\.[a-za-z0-9]+$	0	1590237690	1594553346	
+382	3	^(.+\.)?amp\..+\.com$	0	1590237752	1602830574	Google Accelerated Mobile Pages
+383	3	^(.+\.)?ampproject\.org$	0	1590237757	1602830617	Accelerated Mobile Pages
+384	3	^(.+\.)?cdn\.ampproject\.org$	0	1590237760	1602830605	Accelerated Mobile Pages
+385	3	^(.+\.)?amp\.cloudflare\.com$	0	1590237764	1602830602	Accelerated Mobile Pages
+386	3	(.*\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))	0	1590237771	1594553346	
+387	3	([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/	1	1590237777	1594553346	
+388	3	([A-Za-z0-9.-]*\.)?secure\.footprint\.net/	1	1590237780	1594553346	
+389	3	([A-Za-z0-9.-]*\.)?match\.com/	1	1590237784	1594553346	
+392	3	([A-Za-z0-9.-]*\.)?sitescout(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237791	1594553346	
+393	3	([A-Za-z0-9.-]*\.)?appnexus(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237794	1594553346	
+394	3	([A-Za-z0-9.-]*\.)?evidon(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237801	1594553346	
+395	3	([A-Za-z0-9.-]*\.)?mediamath(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237804	1594553346	
+396	3	([A-Za-z0-9.-]*\.)?scorecardresearch(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237808	1594553346	
+397	3	([A-Za-z0-9.-]*\.)?doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237814	1594553346	
+398	3	([A-Za-z0-9.-]*\.)?flashtalking(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237818	1594553346	
+399	3	([A-Za-z0-9.-]*\.)?turn(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237823	1594553346	
+400	3	([A-Za-z0-9.-]*\.)?mathtag(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237827	1594553346	
+401	3	([A-Za-z0-9.-]*\.)?googlesyndication(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237833	1594553346	
+402	3	([A-Za-z0-9.-]*\.)?s\.yimg\.com/cv/ae/us/audience/	1	1590237838	1594553346	
+403	3	([A-Za-z0-9.-]*\.)?clicks\.beap/	1	1590237842	1594553346	
+404	3	([A-Za-z0-9.-]*\.)?.doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237845	1594553346	
+405	3	([A-Za-z0-9.-]*\.)?yieldmanager(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237850	1594553346	
+406	3	([A-Za-z0-9.-]*\.)?w55c(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237854	1594553346	
+407	3	([A-Za-z0-9.-]*\.)?adnxs(\.\w{2}\.\w{2}|\.\w{2,4})/	1	1590237857	1594553346	
+408	3	([A-Za-z0-9.-]*\.)?advertising\.com/	1	1590237861	1594553346	
+409	3	([A-Za-z0-9.-]*\.)?evidon\.com/	1	1590237866	1594553346	
+410	3	([A-Za-z0-9.-]*\.)?scorecardresearch\.com/	1	1590237871	1594553346	
+411	3	([A-Za-z0-9.-]*\.)?flashtalking\.com/	1	1590237875	1594553346	
+412	3	([A-Za-z0-9.-]*\.)?turn\.com/	1	1590237879	1594553346	
+413	3	([A-Za-z0-9.-]*\.)?mathtag\.com/	1	1590237884	1594553346	
+414	3	([A-Za-z0-9.-]*\.)?surveylink/	1	1590237895	1594553346	
+415	3	([A-Za-z0-9.-]*\.)?info\.yahoo\.com/	1	1590237899	1594553346	
+416	3	([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/	1	1590237904	1594553346	
+417	3	([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/	1	1590237909	1594553346	
+418	3	(^|\.)lgsmartad\.com$	1	1590237913	1594553346	
+419	3	(^|\.)buffpanel\.com$	1	1590237917	1594553346	
+420	3	(^|\.)bugsnag\.com$	1	1590237923	1594553346	
+421	3	(^|\.)redshell\.io$	1	1590237928	1594553347	
+422	3	(^|\.)treasuredata\.com$	1	1590237932	1594553347	
+423	3	(^|\.)unity(|3d)\.com$	1	1590237938	1594553347	
+424	3	(^|\.)unityads(|\.co)\.com$	1	1590237943	1594553347	
+425	3	(^|\.)miwifi\.com$	1	1590279548	1594553347	
+426	3	(.*\.|^)((think)?with)?google($|((adservices|syndication|tagmanager|tagservices|-analytics)($|\..+)))	1	1590294790	1594553347	
+427	3	(partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\.[a-z]{2,7}$	1	1590294799	1594553347	
+428	2	(\.|^)bvcorp\.net$	1	1590299710	1594553350	
+429	0	fonts.gstatic.com	1	1590311567	1627958338	
+430	3	in$	1	1590319572	1594553347	
+431	3	india|.in$	1	1590320014	1594553347	
+432	1	wpad.localhost	1	1590908833	1594553343	
+433	2	(\.|^)nasa\.gov$	1	1590928996	1594553350	
+434	2	(\.|^)isstracker\.com$	1	1590929012	1594553350	
+435	0	f.ssl.fastly.net	1	1591062942	1594553349	FETLIFE cdn
+436	0	maxcdn.bootstrapcdn.com	1	1591934717	1594553349	
+438	0	api.vk.com	1	1592265681	1594553349	
+439	0	zooqle.com	1	1592912928	1596718627	TORRENTZ
+440	0	jobs.thomsonreuters.com	1	1592997825	1594553349	
+441	3	(^|\.)maxymiser\.net$	1	1593338700	1594553347	maxymiser.net
+442	3	(^|\.)addthis\.com	1	1593339204	1594553347	addthis.com
+443	2	(^|\.)paypalobjects\.com	1	1593339314	1594553350	PaypalObjects.com
+444	0	track.thailandpost.co.th	1	1594438747	1594553349	
+445	0	thetracker.org	1	1594554150	1596718587	TORRENTZ
+446	0	tracker.pirateparty.gr	1	1594554172	1596718600	TORRENTZ
+447	0	tracker.internetwarriors.net	1	1594554176	1596718595	TORRENTZ
+448	0	tracker.zer0day.to	1	1594554180	1596718611	TORRENTZ
+450	3	(verblassen[\s+]).\s+	1	1594603369	1594603369	
+451	3	(\.|^)piueuropa\.eu$	1	1596248162	1596248162	
+452	3	(^|\.)xboxlive\.com$	1	1596249695	1596249695	XboxLive
+453	2	clients[1-6].google.com	1	1596249760	1596249760	google update and apps clients
+454	2	(\.|^)connectivitycheck\.gstatic\.com$	1	1596249865	1596249865	Google apps connectivity check
+455	2	(\.|^)beacons\.gcp\.gvt2\.com$	1	1596249901	1596249901	google apps connectivity check
+456	0	teams.events.data.microsoft.com	1	1596260499	1596260499	microsoft TEAMS
+457	0	amp.shazam.com	1	1596261943	1596718517	shazam
+458	0	beacon.shazam.com	1	1596261943	1596718521	shazam
+459	0	captive.apple.com	1	1596262011	1596718538	apple connection check
+460	0	gsp1.apple.com	1	1596262011	1596718541	apple connection check
+461	0	www.apple.com	1	1596262011	1596718545	apple connection check
+462	0	www.appleiphonecell.com	1	1596262011	1596718550	apple connection check
+463	0	connectivitycheck.android.com	1	1596262105	1596718559	android connection check
+464	0	connectivitycheck.gstatic.com	1	1596262105	1596718569	android connection check
+465	0	msftncsi.com	1	1596262105	1596262105	
+466	0	ipv6.msftncsi.com	1	1596262106	1596262106	
+468	2	(\.|^)sysinternals\.com$	1	1596273142	1596273142	
+469	0	s.gateway.messenger.live.com	1	1596273419	1596718434	skype
+470	0	client-s.gateway.messenger.live.com	1	1596273419	1596718437	skype
+471	0	ui.skype.com	1	1596273419	1596718450	skype
+472	0	pricelist.skype.com	1	1596273419	1596718441	skype
+473	0	apps.skype.com	1	1596273419	1596718458	skype
+474	0	m.hotmail.com	1	1596273419	1596718454	skype
+475	0	sa.symcb.com	1	1596273419	1596718443	skype
+476	0	s1.symcb.com	1	1596273433	1596718466	skype
+477	0	s2.symcb.com	1	1596273433	1596718482	skype
+478	0	s3.symcb.com	1	1596273433	1596718474	skype
+479	0	s4.symcb.com	1	1596273434	1596718470	skype
+480	0	s5.symcb.com	1	1596273434	1596718488	skype
+481	2	external-lhr\d+-\d+\.xx.fbcdn.net$	1	1596274491	1596274491	Facebook CDN
+482	0	graph.facebook.com	1	1596276441	1596276441	
+483	0	bigzipfiles.facebook.com	1	1596276441	1596276441	
+484	0	l.facebook.com	1	1596276441	1596276441	
+485	0	beacons.gcp.gvt2.com	1	1596277295	1596277295	google
+486	2	^(s|s)?[aa123456](.symcb.com)	1	1596280374	1596280374	skype
+487	0	githubusercontent.com	1	1596286995	1596286995	
+488	0	raw.githubusercontent.com	1	1596287002	1596287002	
+489	3	(\.|^)qq\.com$	1	1596288455	1596288455	
+490	3	(\.|^)kinecosystembi\.com$	1	1596288481	1596288481	
+491	3	(\.|^)kinmarketplace\.com$	1	1596288725	1596288725	
+492	3	(\.|^)kinfederation\.com$	1	1596288745	1596288745	
+494	3	([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo(\.\w{2}\.\w{2}|\.\w{2})	1	1596340665	1596340665	
+495	0	fetlife.com	1	1596366150	1596366150	
+496	0	track.aliexpress.com	1	1596367698	1596367698	
+497	2	(\.|^)update\.microsoft\.com$	1	1596510770	1596510770	Windows Update
+498	2	(\.|^)windowsupdate\.com$	1	1596510789	1596510789	Windows Update
+499	2	(\.|^)download\.windowsupdate\.com$	1	1596510802	1596510802	Windows Update
+500	2	(\.|^)dl\.delivery\.mp\.microsoft\.com$	1	1596510823	1596510823	Windows Update
+501	2	(\.|^)forms\.office\.com$	1	1596517600	1596517600	
+502	2	(\.|^)samsungiotcloud\.com$	1	1596540070	1596540070	samsung iot cloud
+503	2	(\.|^)smartthings\.com$	1	1596540177	1596540177	samsung iot cloud
+504	2	(\.|^)vortex\.data\.microsoft\.com$	1	1596612668	1596612668	Microsoft updates VISUAL STUDIO
+505	0	advancedinfoservicespubliccompanylimited.sc.omtrdc.net	1	1596684584	1596684584	AIS mobile
+506	0	ws-adv.ais.co.th	1	1596684739	1596684739	AIS mobile
+507	0	tracker.leechers-paradise.org	1	1596718341	1596718341	TORRENTZ
+508	0	tracker.coppersurfer.tk	1	1596718358	1596718358	TORRENTZ
+509	3	(\.|^)stalker\.upeer\.me$	1	1597306909	1597306909	
+510	2	(\.|^)visualstudio\.com$	1	1597311029	1597311029	
+511	0	az764295.vo.msecnd.net	1	1597311076	1597311076	Visual Studio code update
+512	2	(\.|^)vo\.msecnd\.net$	1	1597311320	1597311320	Visual Studio Updates
+513	2	(\.|^)visualstudio\.microsoft\.com$	1	1597311337	1597311337	Visual Studio Updates
+514	2	(\.|^)keep\.google\.com$	1	1597312310	1597312310	google KEEP
+515	2	(\.|^)googleusercontent\.com$	1	1597312332	1597312332	Google KEEP and APPS
+516	2	(\.|^)client-channel\.google\.com$	1	1597312361	1597312361	google KEEP and APPS
+517	2	(\.|^)vsassets\.io$	1	1597312840	1597312840	Visual Studio Assets Updates
+518	0	sale.aliexpress.com	1	1597378154	1597378154	Aliexpress
+519	3	(\.|^)flashgames\.it$	1	1597379606	1597379606	
+520	3	(\.|^)annunciadv\.com$	1	1597379778	1597379778	
+521	2	(\.|^)koalaswim\.com$	1	1597634866	1597634866	
+522	2	(\.|^)cdn\.ampproject\.org$	1	1597720434	1597720434	CDN
+523	2	(\.|^)samsungosp\.com$	1	1599096004	1599096004	Samsung Galaxy Styore Auth
+524	2	(\.|^)enterprisetimes\.co\.uk$	1	1599544379	1599544379	
+525	0	despicable-me-minion-rush.extads.gameloft.com	1	1599614985	1599614985	
+526	0	secure.indeed.com	1	1599615029	1599615029	
+527	0	wttr.in	1	1599616128	1599616128	
+528	0	barbadostoday.bb	1	1600485645	1600485645	
+529	0	addons.opera.com	1	1600923052	1600923052	
+531	3	(\.|^)newrelic\.com$	1	1601273932	1601273932	
+532	1	activation.cloud.techsmith.com	1	1601276759	1601276759	
+533	1	oscount.techsmith.com	1	1601276759	1601276759	
+534	1	camtasiatudi.techsmith.com	1	1601276760	1601276760	
+535	1	tsccloud.cloudapp.net	1	1601276760	1601276760	
+536	1	assets.cloud.techsmith.com	1	1601276760	1601276760	
+537	1	disquis.com	1	1601621686	1601621686	
+538	0	connect.facebook.net	1	1601623256	1601623256	connect.facebook.net
+539	2	(\.|^)cygwin\.com$	1	1602047183	1602047183	
+540	3	(\.|^)wautoosa\.net$	1	1602339216	1602339216	
+541	3	(\.|^)dolohen\.com$	1	1602339237	1602339237	
+542	0	dvprogram.state.gov	1	1602385917	1602385917	
+543	0	in.appcenter.ms	1	1602392459	1602392459	
+544	2	(\.|^)ashemaletube\.com$	1	1602659661	1602659661	PORN
+545	2	(\.|^)xhamster\.com$	1	1602659677	1602659677	PORN
+546	2	(\.|^)xvideos\.com$	1	1602659698	1602659698	PORN 
+547	3	(\.|^)financialfxclub\.com$	1	1602668714	1602668714	
+548	0	1drv.ms	1	1603284282	1603284282	
+549	2	(\.|^)mirrors\.mit\.edu$	1	1604665032	1604665032	Linux DEB APT mirrors
+550	2	(\.|^)qbittorrent\.org$	1	1604918643	1604918643	
+551	2	(\.|^)openwrt\.org$	1	1605005510	1605005510	
+552	3	(\.|^)disqus\.com$	1	1605448683	1605448683	
+553	0	traceparts.com	1	1606704568	1606704568	
+554	0	www.saleshq.com.au	1	1607648192	1607648192	
+555	0	saleshq.com.au	1	1607648198	1607648198	
+556	0	rumble.com	1	1608014211	1608014211	
+557	0	porncomix.info	1	1618302957	1618302957	
+558	0	www.porncomix.info	1	1618303005	1618303005	
+560	0	photobookthailand.com	1	1618392459	1618392459	
+561	0	otp.go.th	1	1618982258	1618982258	
+562	0	www.otp.go.th	1	1618982295	1618982295	
+563	0	freepik.cdnpk.net	1	1619831267	1619831267	
+564	0	embedstream.me	1	1619958240	1619958240	
+565	0	key.seckeyserv.me	1	1619958270	1619958270	
+566	1	meetmilfy.com	1	1620090371	1620090371	
+567	0	dns.google	1	1620612233	1620612233	
+568	0	member.lazada.co.th	1	1621676329	1621676329	
+569	1	adform.net	1	1622965088	1622965088	
+570	1	adobedtm.com	1	1622965289	1622965289	
+571	1	jobleads.it	1	1623292707	1623292707	
+572	1	experteer.it	1	1623296719	1623296719	
+573	1	curriculumdirect.it	1	1623498054	1623498054	
+574	0	line	1	1623673373	1623673373	
+575	0	checkout.lazada.co.th	1	1624069975	1624069975	
+576	1	adjust.com	1	1624446763	1624446763	
+577	1	vivastreet.it	1	1625800193	1625800193	
+578	0	freegeoip.app	1	1626053862	1626053862	Used by dietpi-banner and dietpi-vpn to obtain your public IP and location
+579	0	track.thailandpost.com	1	1626242670	1626242670	
+580	0	faphouse.com	1	1626259982	1626259982	
+581	1	recaptcha.net	1	1626418628	1626418628	
+582	3	.*captcha.*	1	1626418932	1626418932	recaptcha.net
+583	0	retcode-us-west-1.arms.aliyuncs.com	1	1626491592	1626491592	
+585	0	lighthouse.aliexpress.com	1	1626492734	1626492734	
+586	1	carbonads.com	1	1626785994	1626785994	
+587	2	(downloads.outsystems.com)	1	1626845188	1626845188	
+588	0	www.w3.org	1	1627965398	1627965398	
+589	0	podcasts.google.com	1	1627965398	1627965398	
+590	0	pihole	1	1627965398	1627965398	
+591	0	dts.podtrac.com	1	1627965470	1627965470	
+592	0	www.podtrac.com	1	1627965470	1627965470	
+593	0	play.podtrac.com	1	1627965470	1627965470	
+594	0	edge1.pod.npr.org	1	1627965470	1627965470	
+595	0	redirect.mp3	1	1627965470	1627965470	
+596	0	feeds.soundcloud.com	1	1627965470	1627965470	
+597	0	traffic.libsyn.com	1	1627965470	1627965470	
+598	0	audio.thisisdistorted.com	1	1627965470	1627965470	
+599	0	chtbl.com	1	1627965470	1627965470	
+600	0	dovetail.prxu.org	1	1627965470	1627965470	
+601	0	audio.hbr.org	1	1627965470	1627965470	
+602	0	episodes.castos.com	1	1627965470	1627965470	
+603	0	anon.npr-mp3	1	1627965470	1627965470	
+604	0	pdst.fm	1	1627965470	1627965470	
+605	0	audio.wnyc.org	1	1627965470	1627965470	
+606	0	cdn.simplecast.com	1	1627965471	1627965471	
+607	0	default_tc.mp3	1	1627965471	1627965471	
+608	0	nyt.simplecastaudio.com	1	1627965471	1627965471	
+609	0	promodj.com	1	1628031821	1628031821	
+610	3	(\.|^)iubenda\.com$	1	1628597711	1628597711	GDPR and COOKIES
+611	3	(\.|^)cookiehub\.com$	1	1628597722	1628597722	GDPR and COOKIES
+612	3	(\.|^)cookieconsent\.com$	1	1628597733	1628597733	GDPR and COOKIES
+613	3	(\.|^)evidon\.com$	1	1628597832	1628597832	GDPR and COOKIES
+614	3	(\.|^)sfbx\.io$	1	1628597844	1628597844	GDPR and COOKIES
+615	3	(\.|^)onetrust\.com$	1	1628597856	1628597856	GDPR and COOKIES
+616	3	(\.|^)axelspringer\.com$	1	1628597869	1628597869	GDPR and COOKIES
+617	3	(\.|^)consentmanager\.net$	1	1628597907	1628597907	GDPR and COOKIES
+618	3	(\.|^)cookiebot\.com$	1	1628597919	1628597919	GDPR and COOKIES
+619	3	(\.|^)cookielawinfo\.com$	1	1628597955	1628597955	GDPR and COOKIES
+620	3	(\.|^)createit\.com$	1	1628597977	1628597977	GDPR and COOKIES
+621	3	(\.|^)adapt\.io$	1	1628597988	1628597988	GDPR and COOKIES
+622	3	(\.|^)apollo\.io$	1	1628598007	1628598007	GDPR and COOKIES
+623	3	(\.|^)createit\.am$	1	1628598018	1628598018	GDPR and COOKIES
+624	3	(\.|^)crownpeak\.com$	1	1628598029	1628598029	GDPR and COOKIES
+625	3	(\.|^)didomi\.io$	1	1628598050	1628598050	GDPR and COOKIES
+626	3	(\.|^)kiprotect\.com$	1	1628598109	1628598109	GDPR and COOKIES
+627	0	ilgcdn.com	1	1629197564	1629197564	
+628	0	fratelli-italia.eu	1	1629211083	1629211083	
+629	0	luscious.net	1	1629272675	1629272675	
+630	2	(\.|^)freegeoip\.app$	1	1631011461	1631011461	for DietPi
+631	3	accessfreevpn.com	1	1631062578	1631062578	
+632	3	(\.|^)accessfreevpn\.com$	1	1631062584	1631062584	
