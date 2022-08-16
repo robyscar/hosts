@@ -2,6 +2,59 @@
 # Domains to be allowed for Adobe apps & services to function correctly
 # Last updated on Jul 25, 2022
 
+# https://www.adobe.com/devnet-docs/acrobatetk/tools/AdminGuide/endpoints.html
+# Blocking HTTPS Endpoints
+
+# Licensing-activation services
+127.0.0.1	*.licenses.adobe.com
+127.0.0.1	*.auth.services.adobe.com
+
+# Services used for Adobe IDs
+127.0.0.1	api-cna01.adobe-services.com
+127.0.0.1	supportanyware.adobe.io
+
+# Adobe Application Manager
+127.0.0.1	www.adobe.com
+
+# Adobe Enterprise IDs
+127.0.0.1	lcs-cops.adobe.io
+
+Adobe Genuine Integrity Service
+127.0.0.1	*.genuine.adobe.com
+127.0.0.1	genuine.adobe.com
+
+prod.adobegenuine.com
+gocart-web-prod-*.elb.amazonaws.com
+na1e.services.adobe.com
+
+#Adobe-hosted authentication services
+127.0.0.1	*.adobelogin.com
+127.0.0.1	*.okta.com
+127.0.0.1	*.oktacdn.com
+127.0.0.1	*.oktapreview.com
+127.0.0.1	*.adobess.com
+
+127.0.0.1	ims-na1.adobelogin.com
+127.0.0.1	ims-prod06.adobelogin.com
+127.0.0.1	ims-prod07.adobelogin.com
+127.0.0.1	adobeid-na1.services.adobe.com
+127.0.0.1	na1e-acc.services.adobe.com
+127.0.0.1	na1r.services.adobe.com
+127.0.0.1	ams.adobe.com
+127.0.0.1	oobe.adobe.com
+127.0.0.1	federatedid-na1.services.adobe.com
+127.0.0.1	adobelogin.prod.ims.adobejanus.com
+127.0.0.1	services.prod.ims.adobejanus.com
+127.0.0.1	www-prod.adobesunbreak.com
+
+
+# Admin Console
+127.0.0.1	lcs-robs.adobe.io
+127.0.0.1	lcs-entitlement.adobe.io
+127.0.0.1	lcs-ulecs.adobe.io
+127.0.0.1	lcs-cops.adobe.io
+
+
 127.0.0.1	na1r.services.adobe.com	
 127.0.0.1	hlrcv.stage.adobe.com	
 127.0.0.1	lmlicenses.wip4.adobe.com	
