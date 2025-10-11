@@ -1,0 +1,35 @@
+amcdn.msftauth.net		 # NECESSARY	
+azure.com		 # NECESSARY	Azure cloud platform
+challenges.cloudflare.com		 # NECESSARY	Cloudflare challenge services
+cloud.microsoft		 # NECESSARY	
+live.com		 # NECESSARY	Microsoft account services
+live.net		 # NECESSARY	Microsoft Live services
+login.live.com		 # NECESSARY	Login for Microsoft services
+microsoft.com		 # NECESSARY	Core Microsoft domain
+microsoftonline.com		 # NECESSARY	Microsoft Online services authentication
+msftauth.net		 # NECESSARY	Microsoft authentication network
+oauth.officeapps.live.com		 # NECESSARY	OAuth authentication for Office apps
+office.com		 # NECESSARY	Office suite portal
+
+augloop.office.com		 # FUNCTIONAL	AI augmentation features in Office
+bing.com		 # FUNCTIONAL	Bing search services
+c.bing.com		 # FUNCTIONAL	Bing client services
+c1.microsoft.com		 # FUNCTIONAL	Microsoft C1 services
+collabrtc.officeapps.live.com		 # FUNCTIONAL	Real-time collaboration in Office apps
+common.online.office.com		 # FUNCTIONAL	Common online Office services
+config.edge.skype.com		 # FUNCTIONAL	Skype edge configuration
+copilot.microsoft.com		 # FUNCTIONAL	Microsoft Copilot AI services
+ecs.office.com		 # FUNCTIONAL	Office configuration services
+go.trouter.skype.com		 # FUNCTIONAL	Skype routing services
+js.live.net		 # FUNCTIONAL	JavaScript resources for Live services
+mrodevicemgr.officeapps.live.com		 # FUNCTIONAL	Device management for Office apps
+mss.office.com		 # FUNCTIONAL	Microsoft Office services
+odc.officeapps.live.com		 # FUNCTIONAL	Office document conversion/cache
+onedrive.live.com		 # FUNCTIONAL	Cloud storage services
+powerpoint.officeapps.live.com		 # FUNCTIONAL	PowerPoint online services
+pus6-collabhubrtc.officeapps.live.com		 # FUNCTIONAL	Collaboration hub for Office apps
+sfx.ms		 # FUNCTIONAL	SFX services for Microsoft
+skype.com		 # FUNCTIONAL	Skype communication services
+storage.live.com		 # FUNCTIONAL	Storage backend for OneDrive
+substrate.office.com		 # FUNCTIONAL	Office substrate services
+substrate.svc.cloud.microsoft		 # FUNCTIONAL	Core Microsoft cloud substrate services
